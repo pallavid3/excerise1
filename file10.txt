@@ -1,3 +1,7 @@
 This is github basic example 
 your code goes here!!!
+<<<<<<< HEAD
 New line of code
+=======
+New class version here
+>>>>>>> 378104484bb1527f3ba14bf3bb729b3f11c01814
